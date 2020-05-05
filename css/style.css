@@ -103,7 +103,6 @@ h3{
 
 .word p{
   margin-left: 0px;
-  width: 300px;
 }
 
 
@@ -258,16 +257,16 @@ footer p{
 /* .wrap{
   overflow: hidden; */
 
-@media(max-width:600px)
+@media(max-width:500px)
 {
   .topword{
     font-size: 5px;
     flex-direction: column;
-    max-width: 600px;
+    max-width: 500px;
   }
 
   body{
-    max-width: 600px;
+    max-width: 500px;
 
   }
 
@@ -292,11 +291,19 @@ header{
   flex-direction: column;
 }
 
-.word{
- margin-left:0;
-  margin-top: 40px;
-  
+h3{
+  width: 250px;
 }
+
+.word{
+margin-left:0px;
+  margin-top: 40px;
+  width: 250px;
+}
+/* 
+.word p{
+  font-size: 12px;
+} */
 
 
 .grided{
@@ -316,5 +323,3 @@ max-width: 1000px;
 
 
 }
-
-

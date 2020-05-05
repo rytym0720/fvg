@@ -293,7 +293,8 @@ header{
 }
 
 .word{
-  margin-left: 0;
+  margin-left: 0 auto;
+  margin-right:0 auto;
   margin-top: 40px;
 }
 

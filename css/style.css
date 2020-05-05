@@ -257,16 +257,16 @@ footer p{
 /* .wrap{
   overflow: hidden; */
 
-@media (min-width: 400px) and (max-width: 600px) 
+@media (max-width: 4800px) 
 {
   .topword{
     font-size: 5px;
     flex-direction: column;
-    max-width: 500px;
+    max-width: 480px;
   }
 
   body{
-    max-width: 500px;
+    max-width: 480px;
 
   }
 

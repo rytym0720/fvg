@@ -257,7 +257,7 @@ footer p{
 /* .wrap{
   overflow: hidden; */
 
-@media (min-width:481px)and(max-width:960)
+@media (min-width:481px)
 {
   .topword{
     font-size: 10px;

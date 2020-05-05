@@ -262,11 +262,11 @@ footer p{
   .topword{
     font-size: 10px;
     flex-direction: column;
-    max-width: 480px;
+    max-width: 1000px;
   }
 
   body{
-    max-width: 480px;
+    max-width: 1000px;
   }
   
     .grid{
